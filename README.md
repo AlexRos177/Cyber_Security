@@ -10,7 +10,7 @@
 
 ----
 
-# lynis
+# Lynis
 
 > Lynis - Security auditing and hardening tool, for UNIX-based systems.
 
